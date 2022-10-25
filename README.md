@@ -1,5 +1,5 @@
 # Nagłowek 1
-<a>https://shoter99.github.io/MyPortfolio<a>
+<a href="https://shoter99.github.io/MyPortfolio">Link do portfolio<a>
 
 |Nagłowek 1|Nagłowek 2|Nagłowek 2|
 |:-------------:|:---------------:|:---------------:|
