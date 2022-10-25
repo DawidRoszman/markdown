@@ -3,7 +3,7 @@
 Paragraf 1
 **pogrubienie**
 1. lista
-  1.2. zagniezdzenie
+  1. zagniezdzenie
 3. punkt 2
 4. punkt 3
 
