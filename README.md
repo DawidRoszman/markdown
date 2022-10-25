@@ -5,7 +5,7 @@ Paragraf 1
 
 Lista 1:
 1. lista
-  1. pod lista
+  1.1 pod lista
 3. punkt 1
 4. punkt 2
 5. punkt 3
