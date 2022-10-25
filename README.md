@@ -5,7 +5,8 @@ Paragraf 1
 
 Lista 1:
 1. lista
-  1.1 pod lista
+    1. pod lista
+    2. pod lista 2
 3. punkt 1
 4. punkt 2
 5. punkt 3
@@ -24,3 +25,16 @@ Paragraf 3
 *kursywa*
 
 >A to cytat
+
+`print("Hello World)`<br>
+`for i in range(2):`<br>
+&nbsp;` print(i)`
+
+```
+print("Welcome enter number: ")
+x = input("")
+print(int(x)*10)
+```
+
+![obraz z cyberpunka](https://user-images.githubusercontent.com/116646363/197774123-e7fdc66a-5936-4061-b73d-097c809da72a.png)
+
