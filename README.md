@@ -4,11 +4,11 @@ Paragraf 1
 **pogrubienie**
 
 Lista 1:
-
 1. lista
-2. punkt 1
-3. punkt 2
-4. punkt 3
+  1. pod lista
+3. punkt 1
+4. punkt 2
+5. punkt 3
 
 Paragraf 2
 ~~sreślenie~~
