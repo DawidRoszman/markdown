@@ -1,5 +1,5 @@
 # Nagłowek 1
-<a href="dawidroszman.eu">Link do portfolio<a>
+<a href="http://www.dawidroszman.eu">Link do portfolio<a>
 
 |Nagłowek 1|Nagłowek 2|Nagłowek 2|
 |:-------------:|:---------------:|:---------------:|
